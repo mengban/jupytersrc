@@ -42,7 +42,7 @@ def main():
        # time.sleep(1)
        # print('请检测网线是否插好或者已连接WiFi...')
        # exit_code=os.system('ping -n 1 -w 100 10.3.8.211')
-    l = Loginer('2017110604', 'xc19950828') #用户在这里输入自己的学号与密码
+    l = Loginer('2017110615', '132512') #用户在这里输入自己的学号与密码
     l.login()
 
 
