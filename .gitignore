@@ -4,3 +4,5 @@
 *.csv
 # mp4 file
 *.mp4
+# exe file
+*.exe
